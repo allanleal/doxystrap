@@ -137,8 +137,8 @@ dl.el {
 pre.fragment {
     border: 1px solid transparent;
     background-color: #F8F8F8;
-    padding: 4px 6px;
-    margin: 4px 8px 4px 2px;
+    padding: 12px 12px;
+    margin: 12px 8px 12px 2px;
     overflow: auto;
     word-wrap: break-word;
     font-size:  9pt;
@@ -148,8 +148,8 @@ pre.fragment {
 }
 
 div.fragment {
-    padding: 4px 6px;
-    margin: 4px 8px 4px 2px;
+    padding: 12px 12px;
+    margin: 12px 8px 12px 2px;
     border: 1px solid transparent;
     background-color: #F8F8F8;
 }
